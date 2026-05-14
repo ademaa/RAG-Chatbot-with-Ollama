@@ -1,4 +1,4 @@
-# 🤖 Wuilt Knowledge Base RAG Chatbot
+# 🤖 Knowledge Base RAG Chatbot
 
 A fully local **Retrieval-Augmented Generation (RAG)** chatbot built on top of a structured Markdown knowledge base. Uses **LangChain**, **Ollama**, and **ChromaDB** to answer questions about your docs — with a clean **Gradio** chat interface and interactive **t-SNE vector visualizations**.
 
